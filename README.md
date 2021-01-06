@@ -1,2 +1,2 @@
-# react-sidebar-v2
+# react-sidebar-v1
 Created with CodeSandbox
